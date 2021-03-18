@@ -5,7 +5,8 @@
     "require": {
         "guzzlehttp/guzzle": "^7.2",
         "davmixcool/php-sentiment-analyzer": "^1.2",
-        "amenadiel/jpgraph": "^4.0"
+        "amenadiel/jpgraph": "^4.0",
+        "ext-ds": "*"
     },
     "require-dev": {
         "vimeo/psalm": "^4.6",
