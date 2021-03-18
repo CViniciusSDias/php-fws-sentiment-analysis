@@ -1,6 +1,6 @@
 <?php
 
-namespace CViniciusSDias\AnaliseSentimento;
+namespace CViniciusSDias\AnaliseSentimento\Twitter;
 
 use Stringable;
 
